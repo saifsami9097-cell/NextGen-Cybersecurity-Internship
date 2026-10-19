@@ -10,7 +10,7 @@ Cybersecurity Internship – Next Gen Software Hub Pvt. Ltd.
 - Linux Security Fundamentals
 
 ## Tools and Platforms
-- Kali Linux
+- Kali Linux 
 - OverTheWire Bandit
 
 ## Internship Task
